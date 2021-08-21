@@ -1,0 +1,33 @@
+@import "bootstrap/scss/bootstrap";
+
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+  color: #9077b2;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 16px auto;
+  margin-bottom: 20px center;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+a {
+  margin-top: 10px;
+  color: #9077b2;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+  font-size: 16px;
+  margin: 10px;
+  text-align: center;
+}
